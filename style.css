@@ -1,6 +1,6 @@
 
 
-
+/* text align for all divs should be center */
 
 #div1 { 
     color: blue;
@@ -25,10 +25,10 @@ margin: 1%;
     border: 1px solid;color:green;
     position: relative;
     top: 80px;
-    left:90px
-    float: left;
+    left:90px /* each property has to end with a semicolon*/
+    float: left; /* if your file name is red or your have red underlining in your file you have a syntax error and we are happy to help you resolve that */
     width: 95;}
-
+/* div4 is styled inside of the div3 becuase you closed your curly brace in the wrong place */
     #div4 {
         margin: 1%;
     border: 1px solid;color:black;
@@ -48,6 +48,8 @@ margin: 1%;
 
 }
 
+
+/* no styling for div6 or div7 */
 
 
 
