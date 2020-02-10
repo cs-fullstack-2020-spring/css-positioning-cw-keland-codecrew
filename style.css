@@ -8,32 +8,39 @@
      align-content: right;
     
     border:1px solid;color:blue;
-    margin:left 25%;
+    margin:left 1%;
 }
 
 #div2 { 
     position: relative;
     text-align: center;
-    
+    border: 1px solid;color:
+black;
+margin: 1%;
 
 
 }
 #div3 { 
-    margin: 25%;
+    margin: 5%;
     border: 1px solid;color:green;
-    position: absolute;
+    position: relative;
+    top: 80px;
+    left:90px
     float: left;
-    width: 75;}
+    width: 95;}
 
     #div4 {
-        margin: 25%;
+        margin: 1%;
     border: 1px solid;color:black;
     position: relative;;
     float: left;
     width: 75;
 }
 
-#div5 { margin: 25%;
+#div5 {
+    top: 80px;
+    left: 80px
+    margin: 25%;
     border: 1px solid;color:purple;
     position: relative;;
     float: left;
