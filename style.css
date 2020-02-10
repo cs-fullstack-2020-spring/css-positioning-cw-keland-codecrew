@@ -12,14 +12,34 @@
 }
 
 #div2 { 
-    border: blue;
+    position: relative;
+    text-align: center;
+    
 
 
 }
-#div3{ 
-    position: relative;
+#div3 { 
+    margin: 25%;
+    border: 1px solid;color:green;
+    position: absolute;
     float: left;
-    width: 25px;}
+    width: 75;}
+
+    #div4 {
+        margin: 25%;
+    border: 1px solid;color:black;
+    position: relative;;
+    float: left;
+    width: 75;
+}
+
+#div5 { margin: 25%;
+    border: 1px solid;color:purple;
+    position: relative;;
+    float: left;
+    width: 75;
+
+}
 
 
 
